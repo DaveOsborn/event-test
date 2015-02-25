@@ -1,0 +1,15 @@
+# Site settings
+title: Osborn Multimedia
+email: dave@osbornmultimedia.com
+description:
+baseurl: "/osbornmultimedia"
+twitter_username: DaveOsborn
+github_username:  DaveOsborn
+
+# Build settings
+markdown: redcarpet
+encoding: utf-8
+highlighter: rouge
+permalink: /:year/:month/:title
+paginate: 10
+exclude: ["node_modules", "app-js", "README.md"]
