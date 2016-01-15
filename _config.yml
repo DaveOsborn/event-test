@@ -1,10 +1,10 @@
 # Site settings
-title: Osborn Multimedia
-email: dave@osbornmultimedia.com
+title: Eventbrite Test
+email: david.osborn@angelsolutions.co.uk
 description:
-baseurl: "/osbornmultimedia"
-twitter_username: DaveOsborn
-github_username:  DaveOsborn
+baseurl: "/event-test"
+twitter_username:
+github_username:
 
 # Build settings
 markdown: redcarpet
